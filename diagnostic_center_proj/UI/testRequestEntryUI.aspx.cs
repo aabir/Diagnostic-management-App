@@ -184,6 +184,7 @@ namespace diagnostic_center_proj.UI
 
                 billNoLabel.Visible = true;
                 billNoLabel.Text = "New Bill Number is: " + "B-" + testEntry.MobileNo;
+                
 
             }
             else
